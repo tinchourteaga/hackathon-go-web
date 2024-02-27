@@ -1,4 +1,4 @@
-module github.com/tinchourteaga-ml/desafio-go-web-martin-urteaga
+module github.com/tinchourteaga/hackathon-go-web
 
 go 1.19
 
